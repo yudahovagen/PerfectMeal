@@ -1,0 +1,47 @@
+.footer {
+  background-color: cadetblue;
+  width: 100%;
+  height: 50px;
+  position: sticky;
+  bottom: 0.1px;
+  text-align: end;
+  padding-right: 20px;
+}
+
+.header {
+  background-color: rgb(214, 169, 102);
+  width: 100%;
+  height: 100px;
+  color: darkgreen;
+  position: relative;
+  top: 0.1px;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 5px;
+}
+.div-popup {
+  margin: 2%;
+}
+/* .div-popup .form-popup {
+} */
+.div-popup .namebtn {
+  margin: 2px;
+}
+.div-popup .emailbtn {
+  margin: 2px;
+}
+.div-popup .passbtn {
+  margin: 2px;
+}
+.register {
+  text-align: center;
+}
+.search {
+  padding: 3%;
+}
+.food{
+  padding: 3%;
+}
+.plate{
+  padding:3%;
+}

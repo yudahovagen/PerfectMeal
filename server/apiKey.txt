@@ -1,0 +1,8 @@
+IckhwEjFyp6BaAC0oonKEpKjTbBjgG8b5EqBggnm
+
+website on how to use the api:
+https://fdc.nal.usda.gov/api-guide.html
+
+
+example for search by name "rice" :
+https://api.nal.usda.gov/fdc/v1/foods/search?api_key=IckhwEjFyp6BaAC0oonKEpKjTbBjgG8b5EqBggnm&query=rice
